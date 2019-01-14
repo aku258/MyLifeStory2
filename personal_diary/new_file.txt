@@ -1,0 +1,1 @@
+V,qwerty,./personal_diarynew_file1/qwerty.txt
